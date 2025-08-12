@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anshul Rawat and I'm a full stack developer, from india</h2>
+<h2 align="left">Hi 👋! My name is Anshul Rawat and I'm a passionate software engineer, from india</h2>
 
 ###
 
